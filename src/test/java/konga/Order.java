@@ -33,11 +33,6 @@ public class Order {
     driver.findElement(By.xpath("(//div[@class='_0d327_3ftRW']//a)[2]")).click();
     //driver.findElement(By.className("Computing Accessories")).click();
 
-
-
-
-
-
     }
 
     public static void main(String args[]) throws InterruptedException {
